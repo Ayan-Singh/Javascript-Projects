@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    height: 100vh;
+    width: 100%;
+    background:#a40944;
+    padding: 10px;
+}
+.clock{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 5vh;
+    height: 250px;
+    background: #09a49a;
+    width: 250px;
+    margin: 200px auto;
+    border: solid;
+    border-radius: 50%;
+    
+}
